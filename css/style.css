@@ -10,7 +10,7 @@
 
 .container, .main {
 	position: relative;
-}
+float:left;}
 
 
 nav {
@@ -20,6 +20,7 @@ nav {
 	margin: auto;
 	float: left;
 }
+
 
 
 h1{ font-family: 'Kaushan Script', cursive; font-size: 80px; text-align: center;}
@@ -45,13 +46,33 @@ img { width: 100%;/}
 
 
 
-.chinese{width:20%;float:left;position:relative;}
+.chinese{width:32%;float:left;position:relative;}
 
-img {width:30%;}
+img {width:20%;}
 
 .tankp{float:left;position:relative;}
 
-.room{width:30%;float:right;position:relative;}
+.room{width:20%;float:left;position:relative;}
+
+.town{width:32%;float:right;position:relative;}
+
+.rocketbomb{width:20%;float:right;position:relative;}
+
+.white{width:32%;float:left;position:relative;}
+
+.cute{width:20%;float:left;position:relative;}
+
+.cross{width:20%;float:left;position:relative;}
+
+.sons{width:20%;float:left;position:relative;}
+
+.sons18{width:20%;float:right;position:relative;}
+
+.crossj{width:20%;float:right;position:relative;}
+
+.tallgirl{width:20%;float:right;position:relative;}
+
+
 
 
 
